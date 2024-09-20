@@ -18,5 +18,5 @@ Picture of my favourite sandwich
 1. I am not exactly sure what why github is used specifically
 2. Would github be used for front end or back end developing
 ---------------
-1 Work for how I'm feeling
+1 Word for how I'm feeling
 Worried
