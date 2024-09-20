@@ -20,3 +20,16 @@ Picture of my favourite sandwich
 ---------------
 1 Word for how I'm feeling
 Worried
+
+Week 3
+3 AHA Moments
+1. Learned what a boolean is
+2. Realized that having 2 of the same folders is bad
+3. Found out how cd works
+-------------------
+2 Unclear things
+1. still unsure what pushing and commiting are
+2. Don't know why we have a mac terminal and a VScode Terminal
+-------------------
+1 work for how I'm feeling
+nervous
