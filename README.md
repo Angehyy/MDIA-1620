@@ -33,3 +33,8 @@ Week 3
 -------------------
 1 work for how I'm feeling
 nervous
+
+Lesson-6 3 things confused about
+1. I don't fully understand why we should use arrays.
+2. Why do == exist when theres === and it's better
+3. what is a conditional statement
